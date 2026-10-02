@@ -1,7 +1,7 @@
 # influencer-marketing
 Influencer campaigns I've worked on across Frozen Bottle and Kongsi Tea Bar, from finding the right creators, agencies to managing campaigns, content, budgets, and performance.
 
-[Explore Influencer Marketing Case Studies](https://www.behance.net/gallery/244348745/Digital-Marketing-Portfolio-2026-Priyadarshan)
+👉 [Explore Influencer Marketing Case Studies](https://www.behance.net/gallery/244348745/Digital-Marketing-Portfolio-2026-Priyadarshan)
 
 
 ## Frozen Bottle
