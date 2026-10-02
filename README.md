@@ -50,15 +50,18 @@ The campaigns were built around brand positioning, seasonal launches, and the **
 
 **Brand USP - Oct 2025**
 - 608K views
+- 22 creators
 - ₹57.7K spend
 - ₹0.094 CPV
 
 **Winter Launch - Nov 2025**
 - 500K views
+- 19 creators
 - ₹55K spend
 - ₹0.109 CPV
 
 **Holiday Inn Launch - Dec 2025**
 - 211K views
+- 2 creators
 - ₹25K spend
 - ₹0.118 CPV
